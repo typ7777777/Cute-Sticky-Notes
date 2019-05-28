@@ -9,4 +9,4 @@ This project only contain the binary file of Cute Sticky Notes App, the binary f
   
 http://cutestickynotes.com/
 
->*app need hack to run, the list of people using it can see from url: app-website/db*
+>*app need hack to run, the list of people using it can see from url: app-website/db*.
