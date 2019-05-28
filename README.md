@@ -8,3 +8,5 @@ This project only contain the binary file of Cute Sticky Notes App, the binary f
 4) **Async** in old language that don't support. (for manually code)
   
 http://cutestickynotes.com/
+
+>*app need hack to run, the list of people using it can see from url: app-website/db*
