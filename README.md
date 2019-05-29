@@ -2,11 +2,11 @@
 This project only contain the binary file of Cute Sticky Notes App, the binary file is compiled by C#,  and this project is **only for qualify hacker&lt;reverse engineer>** to read the idea --
 `Show how to implement importants features with smallest code, e.g.:`
 
-1) **2D UI engine.** (the key framework for create your custom OS desktop & windows system or &lt;text & image & app>browser&lt;also include a text editor>)
-2) **Database & File System** (with fast compress/search support, the fs protocol tell you the key tech about the network of files)  
-3) **Data Struct Protocol** (as a universal computer data communicate protocol with fast compress/search support. e.g. something like json/http(s) protocol maybe out of date someday, but it will not.)
+1) **2D UI engine.** (for easily create your custom OS desktop&lt;windows system> or 'web' browser)
+2) **Database & File System** (with fast read/write/compress/search/&lt;recover from power lost in writing> support, the fs protocol tell you the key tech about the network of files)  
+3) **Data Struct Protocol** (as a universal computer data communicate protocol with fast load/compress/search support. e.g. something like json/http(s) protocol maybe out of date someday, but this core idea will not.)
 4) **Async** in old language that don't support. (for manually code)
   
 http://cutestickynotes.com/
 
->*app need hack to run, the list of people using it can see from url: app-website/db*.
+>*app maybe need hack to run(virus? not due to this app, reason: the list of people(from country) using it currently can see from url: app-website/db)*.
