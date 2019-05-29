@@ -9,4 +9,4 @@ This project only contain the binary file of Cute Sticky Notes App, the binary f
   
 http://cutestickynotes.com/
 
->*app maybe need hack to run(virus? not due to this app, reason: the list of people(from country) using it currently can see from url: app-website/db)*.
+>*app maybe need **hack** to run(**virus**{will infect C# object cause app delete user data file}? not due to this app, reason: the list of people(from country) using it currently can see from url: app-website/db)*.
