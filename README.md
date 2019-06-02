@@ -1,5 +1,5 @@
 # Cute Sticky Notes
-This project only contain the binary file of Cute Sticky Notes App, the binary file is compiled by C#,  and this project is **only for qualify geeks**&lt;have powerful friend **hacker**> to read the idea --
+This project only contain the binary file of Cute Sticky Notes App, the binary file is compiled by C#,  and this project is **only for qualify geeks**&lt;with his powerful friend **hacker**> to read the idea --
 *`Show how to implement importants features with smallest code, e.g.:`*
 
 1) **2D UI engine.** (for easily create your custom OS desktop&lt;windows system> or 'web' browser)
