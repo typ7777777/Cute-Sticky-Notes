@@ -1,5 +1,7 @@
 # Cute Sticky Notes
+  
 ![screen shot](cute.png)  
+  
 This project only contain the binary file of Cute Sticky Notes App, the binary file is compiled by C#,  and this project is **only for qualify geeks**&lt;with his powerful friend **hacker**> to read the idea --
 *`Show how to implement importants features with smallest code, e.g.:`*
 
@@ -14,6 +16,6 @@ http://cutestickynotes.com/
 >*because **virus**{some will infect C# object cause app delete user data file, some stop this app run} not due to this app,*  
 >*if you work it out: the list of people&you(from country) using it currently can see from url: app-website/db*.
 
-***the qualify geeks verified in this project will get a ticket to use a full features .o binary**(a OS.o almost without hardware code&lt;of course is fast than other OS your know> + 'close source IDE'.base.o) **for your custom OS** (`the client to 'close source developer network: be a programmer node in homework@net'`, if you don't want your hard work be stolen by thieves, and want earn more money to build&lt;with your qualify friends> your dream future IT world.)*  
+***the qualify geeks verified in this project will get a ticket to use a full features .o binary**(a OS.o almost without hardware code&lt;`of course is fast than other OS your know`> + 'close source IDE'.base.o) **for your custom OS** (`the client to 'close source developer network: be a programmer node in homework@net'`, if you don't want your hard work be stolen by thieves, and want earn more money to build&lt;with your qualify friends> your dream future IT world.)*  
 >*  *the .o files for above is still under development: maybe one year or more == the time that you figure out this app and know the powerful people in this circle. the door only open once if you wait then door will not open again.*  
 >*  ***remenber**: because **evil enjoy** to camouflage the innocent or good to **query wisdom**&lt;it's a weapon can rob(kill) you secretly by despicable evil>! **don't tell** any your intellectual property to anyone&lt;the good can solve by himself than read your or others wisdom>!*
