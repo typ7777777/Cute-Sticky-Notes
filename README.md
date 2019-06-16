@@ -3,9 +3,11 @@
   
 **If you don't realize what the meaning by below image, to ignore this webpage, qualified programmer must be first!**  
   
-![screen shot(if can't see from Edge, click this link or open 'cute.png' from source list)](cute.png)  
+![screen shot(can't see? click this link)](cute.png)  
+
+>*if can't see(from Edge etc.), click link above or open 'cute.png' from source list!*  
   
-This project only contain the binary file of Cute Sticky Notes App, the binary file is compiled by C#,  and this project is **only for qualify geeks**&lt;with his powerful friend **hacker**> to read the idea --
+**T**his project only contain the binary file of Cute Sticky Notes App, the binary file is compiled by C#,  and this project is **only for qualify geeks**&lt;with his powerful friend **hacker**> to read the idea --
 *`Show how to implement importants features with smallest code, e.g.:`*
 
 1) **2D UI engine.** (for easily create your custom OS desktop&lt;windows system> or 'web' browser)
