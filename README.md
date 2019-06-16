@@ -3,7 +3,7 @@
   
 **If you don't realize what the meaning by below image, to ignore this webpage, qualified programmer must be first!**  
   
-![screen shot](https://github.com/typ7777777/Cute-Sticky-Notes/blob/master/cute.png)  
+![screen shot(if can't see from Edge, click this link or open 'cute.png' from source list)](cute.png)  
   
 This project only contain the binary file of Cute Sticky Notes App, the binary file is compiled by C#,  and this project is **only for qualify geeks**&lt;with his powerful friend **hacker**> to read the idea --
 *`Show how to implement importants features with smallest code, e.g.:`*
