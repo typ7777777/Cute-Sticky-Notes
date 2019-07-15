@@ -2,6 +2,7 @@
   
   
 **If you don't realize what the meaning by below image, to ignore this webpage, qualified programmer must be first!**  
+*(Of course there are many top programmers that opened their source code to people for free to build the key foundation of modern world today, but their name &lt;almost lost that only few professionals known it even me don't know, and they get unfair less paid in material and physicality> maybe forgot by people in tomorrow history, look at the ancient wonders in world you will realize it, this is why this project come there!)*  
   
 ![screen shot(can't see? click this link)](cute.png)  
 
