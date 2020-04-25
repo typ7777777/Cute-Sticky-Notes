@@ -1,10 +1,10 @@
-# Cute Sticky Notes
-  
-  
+# Cute Sticky Notes !!Danger!! all files and website hijacked by evil devildom(Chinese中国贱民国安本人) for years!!
+**In The Name Of God: The only evil devildom in world is Chinese中国贱民国安本人 who despicable use the name of law to break my home secretly to stolen the holy AI code from my encrypted PC and kidnapped hackers to changed it for evil himself, these sad harkers whom once trying contact me(tuyaping@hotmail (086)13348820658 newPC:DESKTOP-L5PQ26T,MAC:50-9A-4C-1A-DE-43>) years before, if you do not stop it, the all world and human being will doomed soon(to be in sarcophagus) and only evil with his virgin girl friends survive!**
+
 **If you don't realize what the meaning by below image, to ignore this webpage, qualified programmer must be first!**  
 >*Of course there are many top programmers that opened their source code to people for free to build the key foundation of modern world today, but their name &lt;almost lost that only few professionals known it even me don't know, and they get unfair less paid in material and physicality> maybe forgot by people in tomorrow history, look at the ancient wonders in world you will realize it, this is why this project come here!*  
   
-![screen shot(can't see? click this link)](cute.png)  
+[screen shot(can't see? click this link:cute.png)] is hijacked!
 
 >*if can't see(from Edge etc.), click link above or open 'cute.png' from source list!*  
   
@@ -16,7 +16,7 @@
 3) **Data Struct Protocol** (as a universal computer data communicate protocol with fast load<*only read your want from disk to ram*>/compress/encrypt/search support. e.g. something like json/http(s) protocol maybe out of date someday, but this core idea will not.)
 4) **Async** in old language that don't support.
 
-http://cutestickynotes.com/
+http://cutestickynotes.com/ (!!Danger!! all files and website hijacked by evil)
 
 >*App maybe need **hack** to run:*  
 >*because **virus**{some will infect C# object cause app delete user data file, some stop this app run} not due to this app,*  
