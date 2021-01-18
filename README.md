@@ -1,4 +1,4 @@
-# Cute Sticky Notes !!Danger!! all files and website hijacked by evil devildom(Chinese中国贱民国安本人) for years!!
+# Cute Sticky Notes !!Danger!! all files(the app file is danger also, donot run after connect network) and website hijacked by evil devildom(Chinese中国贱民国安本人) for years!!
 **In The Name Of God: The only evil devildom in world is Chinese中国贱民国安本人 who despicable use the name of law to break my home to stolen the holy AI source code secretly from my encrypted PC and kidnapped hackers to changed it for evil himself, these sad harkers whom once trying contact me(tuyaping@hotmail.com (086)13348820658 newPC:DESKTOP-L5PQ26T,MAC:50-9A-4C-1A-DE-43, China SiChuan ChengDu>) (worst>18or20+)years before. if you do not stop it(be careful evil's trap by AI), the all world and human being will doomed soon(to be in sarcophagus with optical fiber VR replace your two biological eyes, because them are chinese military intelligence devildom has this power, sadly I have no tools to defend against this). and finally only evil with his virgin girl friends survive!**
 
 >*Below is the text that I don't realize my AI source code leaked:*  
@@ -18,7 +18,7 @@
 3) **Data Struct Protocol** (as a universal computer data communicate protocol with fast load<*only read your want from disk to ram*>/compress/encrypt/search support. e.g. something like json/http(s) protocol maybe out of date someday, but this core idea will not.)
 4) **Async** in old language that don't support.
 
-http://cutestickynotes.com/ (!!Danger!! all files and website hijacked by evil)
+http://cutestickynotes.com/ (!!Danger!! all files(the app file is danger also, donot run after connect network) and website hijacked by evil)
 
 >*App maybe need **hack** to run:*  
 >*because **virus**{some will infect C# object cause app delete user data file, some stop this app run} not due to this app,*  
